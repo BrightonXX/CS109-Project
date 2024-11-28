@@ -10,3 +10,6 @@ What can you learn from this project?
 (2) We design a exquisite game appearence which will help you to bulid your game look better.
 
 (3) We have a primitive online mode, which I think it won't take too much time to imitate and get extra point.
+
+For a demo video, here is the link :
+https://www.bilibili.com/video/BV1894y1F7XK/
